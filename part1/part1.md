@@ -17,7 +17,7 @@
     b) student['Grad Year']
     c) student.greeting()
     d) student['Favorite Teacher'.name]
-    e) student[courseLoad[1]]
+    e) student.courseLoad[0]
 
 14. a) 32 3 is seen as a string and concated
     b) 1 3 is a string but subtracted with an integer 2
