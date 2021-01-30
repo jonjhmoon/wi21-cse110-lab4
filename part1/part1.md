@@ -29,7 +29,7 @@
     h) NaN undefined does not have an integer value so it can not be subtracted by 3
 
 15. a) true   the strings evaluates to an integer and is greater than 1
-    b) false  2 has a higher lexicographical order than 12
+    b) false  2 has a higher lexocographical order
     c) true   they are equal becuase they have the same value
     d) false  they are not equal because they have different types
     e) false  this is false since they have different values
