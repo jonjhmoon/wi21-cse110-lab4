@@ -19,16 +19,16 @@
     d) student['Favorite Teacher'.name]
     e) student[courseLoad[1]]
 
-14. a) 5
-    b) 1
-    c) 3
-    d) '3null'
-    e) 4
-    f) 0
-    g) '3undefined'
-    h) NaN
+14. a) 32 3 is seen as a string and concated
+    b) 1 3 is a string but subtracted with an integer 2
+    c) 3 3 is adding with null which is 0
+    d) '3null' '3' is a string which concates with null
+    e) 4 true has an integer value of 1 and adds with 3
+    f) 0 false and null both have integer values of 0
+    g) '3undefined' '3' is seen as a string and concates with undefined
+    h) NaN undefined does not have an integer value so it can not be subtracted by 3
 
-15. a) true
+15. a) true   
     b) false
     c) true
     d) false
