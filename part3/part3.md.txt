@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. The bug was that the numbers were adding as a string instead of an int.
 2. I fixed this bug by using parseInt to have the numbers be added as ints.
 
@@ -11,4 +12,19 @@
 7. Tue, 26 Jan 2021 22:14:13 GMT
 8. application/json
 
+=======
+1. The bug was that the numbers were adding as a string instead of an int.
+2. I fixed this bug by using parseInt to have the numbers be added as ints.
+
+1. citylots.json
+2. part2.js
+3. 11.7 MB
+4. 2.68s
+
+5. User-agent: Mozilla/5.0
+6. Apache
+7. Tue, 26 Jan 2021 22:14:13 GMT
+8. application/json
+
+>>>>>>> 1fa54eb1816d29ca847b90142b8f11b210314b7a
 9. fetchData()
